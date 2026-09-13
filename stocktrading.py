@@ -1,5 +1,5 @@
 '''
-Submitter details: Gayatri Gundawar
+Submitter details: Gayatri Gundawar 
 '''
 
 def maxProfit(prices):
