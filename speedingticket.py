@@ -1,5 +1,5 @@
 '''
-Members: Ankur Banga, Yukti Toshniwal
+Submitter details: Gayatri Gundawar
 '''
 
 x = int(input())
